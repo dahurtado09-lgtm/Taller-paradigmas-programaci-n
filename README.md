@@ -1,2 +1,2 @@
-# Taller-paradigmas-programaci-n
+# Taller-paradigmas-programacion
 Taller N 2
